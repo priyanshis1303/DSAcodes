@@ -1,9 +1,9 @@
-*/
+/*
     PRIYANSHI SINGH
     IT_57
     BATCH C
     
-/*#include <stdio.h>
+*/#include <stdio.h>
 #include <stdlib.h>
 
 #define MAX_SIZE 5
